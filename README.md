@@ -1,4 +1,4 @@
 helloworld
 ==========
 
-First app
+First app made with Android Social
